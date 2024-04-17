@@ -102,6 +102,6 @@ def main():
 
     minha_tv = Televisao()
     menu_operacao(minha_tv)
-
+    print()
 if __name__ == "__main__":
     main()
